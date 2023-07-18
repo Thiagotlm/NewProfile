@@ -1,6 +1,4 @@
-<a href="https://github.com/delta-code-ltda" target="_blank">
-  <img src="https://github.com/Luk4x/Luk4x/assets/86276393/a8aacd9e-ea05-4f30-a2f2-9c4d55232ba4" alt="Assinatura de Lucas da Delta Code" height="89px" />
-</a>
+
 <table align="right">
   <tr>
     <td height="43px">
@@ -15,7 +13,7 @@
     </td>
   </tr>
 </table>
-<hr/>
+
 
 <a href="https://github.com/Luk4x/github-profile-background-photo" alt="Repositório do Banner Animado de Luk4x">
   <img align="center" width="100%" alt="Banner Animado do Github do Luk4x" src="./images/wallpaper-pt.apng" />
