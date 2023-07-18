@@ -14,42 +14,32 @@
   </tr>
 </table>
 
-
-<a href="https://github.com/Luk4x/github-profile-background-photo" alt="Repositório do Banner Animado de Luk4x">
-  <img align="center" width="100%" alt="Banner Animado do Github do Luk4x" src="./images/wallpaper-pt.apng" />
-</a>
 <br/><br/>
 <div align="center">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=luk4x&repo=luk4x&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github do Luk4x" height="40px" />
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=thiagotlm&repo=thiagotlm&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github do Luk4x" height="40px" />
 </div>
 <hr/>
 
 <img align="center" src="./components/titles/pt/about.png" width="100%" alt="Título da seção Sobre Mim" />
 <img align="right" src="./images/analysis.gif" border="2" width="372px" height="278px" alt="Garoto sentado em frente a um monitor em um quarto escuro" />
 <ul>
-  <li>🤩️ Apaixonado por Programação, Animes e Música.</li>
-  <li>💻 <b>Trabalho</b> na <a href="https://github.com/delta-code-ltda" target="_blank">Delta Code</a> e já estudei no <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>, <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://www.alura.com.br/" target="_blank">Alura<a/>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Video</a>, <a href="https://www.dio.me" target="_blank">DIO<a/> e <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
-  <li>🔭 Com mais de 2 anos de <b>experiência</b>, tenho autonomia em diversas das tecnologias Front-end mais relevantes do mercado.</li>
-  <li>🔮 Estou me especializando em Front-end, mas tenho noções de Back-end e Mobile, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
+  <li>🤩️ Apaixonado por Programação, Filmes e Música.</li>
+  <li>💻 <b>Trabalho</b> na <a href="https://www.eletronuclear.gov.br/Paginas/default.aspx" target="_blank">Eletronuclear</a> e já estudei na <a href="https://www.dio.me" target="_blank">DIO<a/>.</li>
+  <li>🔮 Estou me especializando em Front-end e back-end, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
   <li>🚀 Evoluindo continuamente em <strong>React.js</strong> e em seu ecossistema.</li>
-  <li>🇺🇸 Tenho inglês intermediário.</li>
-  <li>🎮 Curto jogar <a href="https://namemc.com/profile/Kiy0u.1" target="_blank">PotPvP</a>, <a href="https://tracker.gg/valorant/profile/riot/Luk4x%23Luk4x/agents?playlist=unrated&season=all" target="_blank">Valorant</a> e <a href="https://www.chess.com/member/kiy0u" target="_blank">Xadrez</a>.</li>
+  <li> Tenho inglês básico.</li>
   <li>
     <details>
       <summary>👽 Curiosidades:</summary>
       <ul>
-        <li>🤖 Estruturo minha rotina em Javascript.</li>  
-        <li>⛩️ Já assisti mais de 450 animes.</li>
+        <li>🤖 Nas horas vagas curto pedalar.</li>  
+        <li>⛩️ Já pedalei 150 km no mesmo dia.</li>
       </ul>
     </details>
   </li>
 </ul>
 <br/>
-<div align="center">
-  <a href="https://open.spotify.com/user/317pewkddeii2h3hfvslij6zwwdy" target="_blank">
-    <img src="https://luk4x-spotify-readme.vercel.app/api?theme=dark&scan=true" alt="Música que está tocando no Spotify do Luk4x no momento" />
-  </a>
-</div>
+
 <hr/>
 
 <img align="center" src="./components/titles/pt/stack.png" width="100%" alt="Título da seção Minha Stack" />
@@ -67,16 +57,6 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://nextjs.org/">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="65px" alt="NextJS icon"/><br/>
-        <sub>
-          <b>
-            <pre>Next.js</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://www.typescriptlang.org/">
         <img src="https://skillicons.dev/icons?i=ts" width="65px" alt="Typescript icon"/><br/>
         <sub>
@@ -84,16 +64,6 @@
             <pre>Typescript</pre>
           </b>
         </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://tailwindcss.com/">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Tailwind icon"/><br/>
-      <sub>
-        <b>
-          <pre>Tailwind<br/>CSS</pre>
-        </b>
-      </sub>
       </a>
     </td>
     <td align="center">
@@ -109,26 +79,6 @@
   </tr>
     <tr>
     <td align="center">
-      <a href="https://firebase.google.com/">
-        <img src="https://skillicons.dev/icons?i=firebase" width="65px" alt="Firebase icon"/><br/>
-        <sub>
-          <b>
-            <pre>Firebase</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://next-auth.js.org/">
-        <img src="https://user-images.githubusercontent.com/86276393/212922355-e38adb95-9e96-4970-b934-e8ac6c9bd3c9.png" width="60px" alt="NextAuth icon"/><br/>
-        <sub>
-          <b>
-            <pre>NextAuth</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://react-hook-form.com/">
         <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" width="65px" alt="React Hook Form icon"/><br/>
         <sub>
@@ -139,28 +89,6 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://graphql.org/">
-        <img src="https://skillicons.dev/icons?i=graphql" width="65px" alt="GraphQL icon"/><br/>
-        <sub>
-          <b>
-            <pre>GraphQL</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.radix-ui.com/">
-        <img src="https://i.ibb.co/dBn3tGF/radix.png" width="65px" alt="Radix icon"/><br/>
-        <sub>
-          <b>
-            <pre>Radix UI</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://getbootstrap.com/">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br/>
       <sub>
@@ -168,88 +96,6 @@
           <pre>Bootstrap</pre>
         </b>
       </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://headlessui.com/">
-        <img src="https://user-images.githubusercontent.com/86276393/212924197-eb12c9c9-3803-4470-897a-bdf8f9976f97.png" height="65px" alt="HeadlessUI icon"/><br/>
-        <sub>
-          <b>
-            <pre>HeadlessUI</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://styled-components.com/">
-        <img src="https://skillicons.dev/icons?i=styledcomponents" width="60px" alt="Styled Components icon"/><br/>
-        <sub>
-          <b>
-            <pre>Styled<br/>Components</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://sass-lang.com/">
-        <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="Sass icon"/><br/>
-        <sub>
-          <b>
-            <pre>Sass</pre>
-          </b>
-       </a>
-      </sub>
-    </td>
-    <td align="center">
-      <a href="https://zod.dev/">
-      <img src="https://gyazo.com/46cf504b2ae0287f3023c2cf64bc0e9a/max_size/400" width="65px" alt="Zod icon"/><br/>
-      <sub>
-        <b>
-          <pre>Zod &<br/>Yup</pre>
-        </b>
-      </sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.sanity.io/">
-        <img src="https://user-images.githubusercontent.com/86276393/212923447-c70352c9-540b-4063-8279-880ad2c164e2.png" height="65px" alt="Sanity icon"/><br/>
-        <sub>
-          <b>
-            <pre>Sanity.io</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://stripe.com/en-br/">
-        <img src="https://user-images.githubusercontent.com/86276393/212921259-b6b0f80e-d9ed-4b0e-b17a-34733b507cec.png" width="65px" alt="Stripe icon"/><br/>
-        <sub>
-          <b>
-            <pre>Stripe</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://redux.js.org/">
-        <img src="https://skillicons.dev/icons?i=redux" width="65px" alt="Redux icon"/><br/>
-        <sub>
-          <b>
-            <pre>Redux<br/>Toolkit</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://expressjs.com/">
-        <img src="https://skillicons.dev/icons?i=express" width="65px" alt="Express.js icon"/><br/>
-        <sub>
-          <b>
-            <pre>Express.js</pre>
-          </b>
-        </sub>
       </a>
     </td>
     <td align="center">
@@ -273,16 +119,6 @@
           </b>
         </sub>
      </a>
-    </td>
-    <td align="center">
-      <a href="https://axios-http.com/docs/intro">
-      <img src="https://i.ibb.co/305Zbht/axios.png" width="65px" alt="Axios icon"/><br/>
-      <sub>
-        <b>
-          <pre>Axios &<br/>FetchAPI</pre>
-        </b>
-      </sub>
-      </a>
     </td>
     <td align="center">
       <a href="https://nodejs.org/en">
@@ -342,16 +178,6 @@
         <sub>
           <b>
             <pre>VSCode</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://pop.system76.com/">
-        <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="Linux icon"/><br/>
-        <sub>
-          <b>
-            <pre>Linux &<br>Windows</pre>
           </b>
         </sub>
       </a>
